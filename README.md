@@ -1,6 +1,6 @@
-# EC7212 - Computer Vision and Image Processing: Take Home Assignment 1 Report
+# EC7212 - Computer Vision and Image Processing: Take Home Assignment 1
 
-**GitHub Repository**: [https://github.com/yourusername/assignment1](https://github.com/yourusername/assignment1)
+**GitHub Repository**: [https://github.com/Tishan-001/computer-vision-assignment-1](https://github.com/Tishan-001/computer-vision-assignment-1)
 
 ## Introduction
 This report details the solutions for the Take Home Assignment 1 of the EC7212 Computer Vision and Image Processing course. The assignment comprises four image processing tasks implemented in Python using OpenCV and NumPy. The tasks are:
@@ -88,4 +88,4 @@ The outputs show reduced spatial detail:
 ![reduced_resolution_7x7](./images/reduced_resolution_7x7.jpg)
 
 ## Conclusion
-The assignment was completed using Python with OpenCV and NumPy, producing the expected outputs for all tasks. The code is modular and robust, handling errors appropriately. The GitHub repository contains the code and images: [https://github.com/yourusername/assignment1](https://github.com/yourusername/assignment1) (replace with your actual GitHub link).
+The assignment was completed using Python with OpenCV and NumPy, producing the expected outputs for all tasks. The code is modular and robust, handling errors appropriately. The GitHub repository contains the code and images: [https://github.com/Tishan-001/computer-vision-assignment-1](https://github.com/Tishan-001/computer-vision-assignment-1) .
